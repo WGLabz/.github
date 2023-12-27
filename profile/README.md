@@ -1,7 +1,3 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/wglabz?logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/oksbwn/oksbwn/edit/master/README.md&ref_src=twsrc%5Etfw&region=follow_link&screen_name=wglabz&tw_p=followbutton)
-[![Website](https://img.shields.io/website?down_message=Offline&label=SBCFinder&logo=cloud&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fsbcfinder.com)](https://sbcfinder.com)
-[![Website](https://img.shields.io/website?down_message=Offline&label=Blog&logo=cloud&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwglabz.in)](https://wglabz.in)
-
 #### Hi there 👋
 
 This is WGLabz!!!
@@ -15,16 +11,6 @@ This is WGLabz!!!
 - [TTGO ESP32 LoRa Module OLED Display Interaction](https://www.youtube.com/watch?v=Y6GhAzgK7f8)
 - [Getting Started with FiPy PyMakr and VS Code](https://www.youtube.com/watch?v=kecIftZdzzY)
 <!-- YOUTUBE:END -->
-
-#### Latest SBCs added to [SBCFinder](https://sbcfinder.com/home) :-
-
-<!-- SBCFINDER:START -->
-- [Radxa Zero](https://sbcfinder.com/radxazero)
-- [Banana Pi M2 Pro](https://sbcfinder.com/bananapim2pro)
-- [ROC-RK3566-PC](https://sbcfinder.com/rocrkpc)
-- [Quartz64 B](https://sbcfinder.com/quartzb)
-- [MaaXBoard Nano](https://sbcfinder.com/maaxboardnano)
-<!-- SBCFINDER:END -->
 
 #### Catch us on :-
 
